@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0a76d4566bda8424ca074497120c0c44
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SnowPrefab: {fileID: 3270851490981121198, guid: 3d127b259a67d254da376f4703db6b24, type: 3}
+  - SnowmanBody: {fileID: 7159815798156549148, guid: 7aee05e6b2551394d8084c3325b310b1, type: 3}
+  - _playerInfo: {instanceID: 0}
+  - _headControls: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
