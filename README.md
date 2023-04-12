@@ -1,7 +1,8 @@
 # SnowMen
 
+April/May 2022.
 First game made at Isart Digital Montréal on Unity.
 Controller is gamepad.
-In collaboration with game designers.
+In collaboration between programmers and game designers.
 
 A 2vs2 where you battle as a snowmen, throwing snowball and even you head.
