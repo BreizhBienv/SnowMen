@@ -7,4 +7,5 @@ In collaboration between programmers and game designers.
 
 A 2vs2 where you battle as a snowmen, throwing snowball and even you head.
 
-Youtube link: https://www.youtube.com/watch?v=BHHdgvGMauQ&t=4s
+## Youtube Overview
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/BHHdgvGMauQ/0.jpg)](https://www.youtube.com/watch?v=BHHdgvGMauQ)
